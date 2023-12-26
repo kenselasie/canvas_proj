@@ -7,7 +7,7 @@ This project is created with HTML5 and Javascript
 Follow these steps to run the application, It can either be served with a liveserver, 
 or opened directly from the web browser, preferably Google Chrome
 
-### 1. download liveserver extension
+### 1. Download liveserver extension
 
 In VS  code, you can search for `live server` in the extensions tab,
 Install the extension, you may have to restart vscode.
